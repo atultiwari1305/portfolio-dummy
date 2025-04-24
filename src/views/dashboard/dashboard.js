@@ -145,7 +145,7 @@ export default function Dashboard() {
                   >
                     This is{" "}
                     <Text display="inline-flex" color={highlightTextColor}>
-                      Rahul Kumar Patro
+                      Atul Kumar Tiwari
                     </Text>
                   </Text>
                   <Text
@@ -156,7 +156,7 @@ export default function Dashboard() {
                   >
                     I am a{" "}
                     <Text display="inline-flex" color={highlightTextColor}>
-                      Software Developer
+                      Aspiring Software Developer
                     </Text>
                   </Text>
                 </Box>

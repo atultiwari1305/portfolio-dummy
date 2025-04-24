@@ -94,7 +94,7 @@ export default function Contact() {
               </Box>
               <Text textAlign="center">FIND ME @</Text>
               <Text color={textColorPrimary} textAlign="center" mt="5px">
-                Truminds Software Systems
+                Lovely Professional University
               </Text>
             </Box>
           </Flex>
@@ -126,7 +126,7 @@ export default function Contact() {
               <Text textAlign="center">EMAIL ME @</Text>
 
               <Text color={textColorPrimary} textAlign="center" mt="5px">
-                rahulkpatro@gmail.com
+                atulrajtiwari098@gmail.com
               </Text>
             </Box>
           </Flex>
@@ -147,7 +147,7 @@ export default function Contact() {
               </Box>
               <Text textAlign="center">CALL ME @</Text>
               <Text color={textColorPrimary} textAlign="center" mt="5px">
-                (+91)-7667232335
+                (+91)-9336980842
               </Text>
             </Box>
           </Flex>
