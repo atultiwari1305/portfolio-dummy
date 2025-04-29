@@ -209,7 +209,7 @@ export function SideNavResponsive(props) {
                   justifyContent="center"
                   alignItems="center"
                 >
-                  <GitHubButton
+                  {/* <GitHubButton
                     href="https://github.com/Rahul1582/portfolio-rahulkp"
                     data-color-scheme="no-preference: light; light: light; dark: dark_dimmed;"
                     data-icon="octicon-star"
@@ -227,7 +227,7 @@ export function SideNavResponsive(props) {
                     aria-label="Fork Rahul1582/portfolio-rahulkp on GitHub"
                   >
                     Fork
-                  </GitHubButton>
+                  </GitHubButton> */}
                 </Flex>
               </Flex>
             </Box>
