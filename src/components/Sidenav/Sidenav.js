@@ -15,7 +15,7 @@ import {
 } from "@chakra-ui/react";
 import { React, useState, useRef } from "react";
 import { IoMenuOutline } from "react-icons/io5";
-import GitHubButton from "react-github-btn";
+
 import Content from "./Content";
 import sidenavDark from "../../assets/sidenavDark.png";
 import sidenavLight from "../../assets/sidenavLight.png";
